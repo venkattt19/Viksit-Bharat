@@ -1,4 +1,3 @@
-# Viksit-Bharat
 # Viksit Bharat - Rural Work Monitoring System
 
 A comprehensive government work monitoring system designed for three-tier administration (Village, Block, and District officers) to manage rural development projects with real-time face recognition, fraud detection, and approval workflows.
